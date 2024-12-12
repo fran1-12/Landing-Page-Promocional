@@ -1,4 +1,5 @@
 # Landing Page Promocional 
+1.0.1
 
 Este proyecto es una **Landing Page Promocional** creada utilizando React. Está diseñada para ser moderna, responsiva y efectiva en la conversión de visitantes a clientes potenciales.
 
